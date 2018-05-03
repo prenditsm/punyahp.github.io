@@ -7,5 +7,5 @@ script:
   - npm test
   - gulp
 cache:
-  directories:
+  directories:tips andriloid,apk android,dll
     - node_modules
